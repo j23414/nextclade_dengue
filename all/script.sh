@@ -4,7 +4,7 @@ set -euv
 INFILE="sequences.fasta"
 META="metadata.tsv"
 REF="reference.fasta"
-REF_GFF="reference_dengue_all.gb" # Swap this out for correct reference GenBank or GFF
+REF_GFF="reference_dengue_all.gb"
 
 [[ -d "results" ]] || mkdir results
 
@@ -16,25 +16,25 @@ REF_GFF="reference_dengue_all.gb" # Swap this out for correct reference GenBank 
 augur align \
   --sequences ${INFILE} \
   --reference-sequence ${REF} \
-  --output results/aln.fasta \
+  --output results/prrsv_aln.fasta \
   --fill-gaps \
   --nthreads 1
 
 augur tree \
-  --alignment results/aln.fasta \
+  --alignment results/prrsv_aln.fasta \
   --output results/tree.nwk \
   --nthreads 1
 
 augur refine \
   --tree results/tree.nwk \
-  --alignment results/aln.fasta \
+  --alignment results/prrsv_aln.fasta \
   --metadata metadata.tsv \
   --output-tree results/refined_tree.nwk \
   --output-node-data results/branch_labels.json
 
 augur ancestral \
   --tree results/refined_tree.nwk \
-  --alignment results/aln.fasta \
+  --alignment results/prrsv_aln.fasta \
   --output-node-data results/nt-muts.json \
   --inference joint
 
