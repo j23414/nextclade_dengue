@@ -1,25 +1,34 @@
-#! /usr/bin/env bash
-set -euv
 
-INFILE="sequences.fasta"
-META="metadata.tsv"
-REF="reference.fasta"
+# #! /usr/bin/env bash
+# set -euv
+# 
+# INFILE="sequences.fasta"
+# META="metadata.tsv"
+# REF="reference.fasta"
+# 
+# ARR=(all denv1 denv2 denv3 denv4)
+# 
+#   REF_GFF="reference_dengue_${subtype}.gb"
+#   
+#   [[ -d "results" ]] || mkdir results
 
-ARR=(all denv1 denv2 denv3 denv4)
-
-for subtype in "${ARR[@]}"; do
-  cd ${subtype}
-
-  REF_GFF="reference_dengue_${subtype}.gb"
-  
-  [[ -d "results" ]] || mkdir results
-    
-  augur align \
-    --sequences ${INFILE} \
-    --reference-sequence ${REF} \
-    --output results/aln.fasta \
-    --fill-gaps \
-    --nthreads 1
+rule nextalign:
+    input:
+        sequences = "${subtype}/sequences.fasta"
+        reference = "${subtype}/reference.fasta"
+        gff = "${subtype}/reference_dengue_${subtype}.gb"
+    output:
+        alignment = "${subtype}/results/aln.fasta"
+    shell:
+        """
+        cat {input.sequences} \
+        | nextalign run \
+          --jobs=`nproc` \
+          --reference {input.reference} \
+          --genemap ${REF_GFF} \
+          --output-translations translations_{gene}.txt \
+          --output-fasta results/aln.fasta
+        """
   
   augur tree \
     --alignment results/aln.fasta \

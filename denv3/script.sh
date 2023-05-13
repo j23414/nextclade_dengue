@@ -8,11 +8,6 @@ REF_GFF="reference_dengue_denv3.gb"
 
 [[ -d "results" ]] || mkdir results
 
-# echo "strain|date|clade_membership" | tr '|' '\t' > metadata.tsv
-# grep ">" ${INFILE} \
-#   | sed 's/>//g' \
-#   | awk -F'|' '{print $0"\t"$3"\t"$4}' >> metadata.tsv
-
 augur align \
   --sequences ${INFILE} \
   --reference-sequence ${REF} \

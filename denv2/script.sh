@@ -4,21 +4,17 @@ set -euv
 INFILE="sequences.fasta"
 META="metadata.tsv"
 REF="reference.fasta"
-REF_GFF="reference_dengue_denv2.gb"
+REF_GFF="genemap.gff"
 
 [[ -d "results" ]] || mkdir results
 
-# echo "strain|date|clade_membership" | tr '|' '\t' > metadata.tsv
-# grep ">" ${INFILE} \
-#   | sed 's/>//g' \
-#   | awk -F'|' '{print $0"\t"$3"\t"$4}' >> metadata.tsv
-
-augur align \
-  --sequences ${INFILE} \
-  --reference-sequence ${REF} \
-  --output results/prrsv_aln.fasta \
-  --fill-gaps \
-  --nthreads 1
+cat ${INFILE} \
+ | nextalign run \
+  --jobs=`nproc` \
+  --reference ${REF} \
+  --genemap ${REF_GFF} \
+  --output-translations translations_{gene}.txt \
+  --output-fasta results/aln.fasta
 
 augur tree \
   --alignment results/prrsv_aln.fasta \

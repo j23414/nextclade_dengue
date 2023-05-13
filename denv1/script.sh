@@ -4,37 +4,34 @@ set -euv
 INFILE="sequences.fasta"
 META="metadata.tsv"
 REF="reference.fasta"
-REF_GFF="reference_dengue_denv1.gb"
+#REF_GFF="reference_dengue_denv1.gb"
+REF_GFF="o_genemap.gff"
 
 [[ -d "results" ]] || mkdir results
 
-# echo "strain|date|clade_membership" | tr '|' '\t' > metadata.tsv
-# grep ">" ${INFILE} \
-#   | sed 's/>//g' \
-#   | awk -F'|' '{print $0"\t"$3"\t"$4}' >> metadata.tsv
-
-augur align \
-  --sequences ${INFILE} \
-  --reference-sequence ${REF} \
-  --output results/prrsv_aln.fasta \
-  --fill-gaps \
-  --nthreads 1
+cat ${INFILE} \
+ | nextalign run \
+  --jobs=`nproc` \
+  --reference ${REF} \
+  --genemap ${REF_GFF} \
+  --output-translations translations_{gene}.txt \
+  --output-fasta results/aln.fasta
 
 augur tree \
-  --alignment results/prrsv_aln.fasta \
+  --alignment results/aln.fasta \
   --output results/tree.nwk \
   --nthreads 1
 
 augur refine \
   --tree results/tree.nwk \
-  --alignment results/prrsv_aln.fasta \
+  --alignment results/aln.fasta \
   --metadata metadata.tsv \
   --output-tree results/refined_tree.nwk \
   --output-node-data results/branch_labels.json
 
 augur ancestral \
   --tree results/refined_tree.nwk \
-  --alignment results/prrsv_aln.fasta \
+  --alignment results/aln.fasta \
   --output-node-data results/nt-muts.json \
   --inference joint
 
