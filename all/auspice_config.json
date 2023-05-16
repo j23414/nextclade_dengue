@@ -1,0 +1,21 @@
+{
+  "title": "Dengue nextclade reference tree",
+  "updated": "2023-04-24",
+  "build_url": "https://github.com/neherlab/nextclade_dataset_template",
+  "data_provenance": [
+    {
+      "name": "NCBI GenBank"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "optional: Your Name",
+      "url": "optional url to your website"
+    }
+  ],
+  "display_defaults": {
+    "map_triplicate": true,
+    "color_by": "clade_membership",
+    "distance_measure": "div"
+  }
+}
