@@ -21,5 +21,18 @@
     "tree": "tree.json",
     "virusPropertiesJson": "virus_properties.json"
   },
-  "metadata": {}
+  "metadata": {},
+  "attributes": {
+    "name": {
+      "value": "denv4",
+      "valueFriendly": "Dengue relative to a denv4 reference"
+    },
+    "reference": {
+      "value": "NC_002640",
+      "valueFriendly": "DENV4/NA/REFERENCE/2003"
+    },
+    "tag": {
+      "value": "2023-04-28T00:00:00Z"
+    }
+  }
 }

@@ -146,7 +146,7 @@
       {
         "name": "NC_002640.1",
         "node_attrs": {
-          "div": 0.01026712,
+          "div": 0.01026784,
           "clade_membership": {
             "value": "DENV4"
           }
@@ -306,7 +306,7 @@
       {
         "name": "NODE_0000001",
         "node_attrs": {
-          "div": 0.00874578,
+          "div": 0.00874496,
           "clade_membership": {
             "value": "DENV4"
           }
@@ -453,7 +453,7 @@
           {
             "name": "DENV4/VENEZUELA/BIDV1156/2007",
             "node_attrs": {
-              "div": 0.01122021,
+              "div": 0.011219439999999999,
               "clade_membership": {
                 "value": "DENV4"
               }
@@ -480,7 +480,7 @@
           {
             "name": "DENV4/BRAZIL/GUSP0316/2013",
             "node_attrs": {
-              "div": 0.0132862,
+              "div": 0.01328526,
               "clade_membership": {
                 "value": "DENV4"
               }
@@ -503,7 +503,7 @@
       {
         "name": "NODE_0000002",
         "node_attrs": {
-          "div": 0.02094767,
+          "div": 0.02094831,
           "clade_membership": {
             "value": "DENV4"
           }
@@ -563,7 +563,7 @@
           {
             "name": "NODE_0000003",
             "node_attrs": {
-              "div": 0.03670366,
+              "div": 0.03670506,
               "clade_membership": {
                 "value": "DENV4"
               }
@@ -609,7 +609,7 @@
               {
                 "name": "DENV4/NA/LD32GZ1990/NA",
                 "node_attrs": {
-                  "div": 0.06198686,
+                  "div": 0.06198881,
                   "clade_membership": {
                     "value": "DENV4"
                   }
@@ -670,7 +670,7 @@
               {
                 "name": "DENV4/THAILAND/033393/NA",
                 "node_attrs": {
-                  "div": 0.07595185,
+                  "div": 0.075954,
                   "clade_membership": {
                     "value": "DENV4"
                   }
@@ -756,7 +756,7 @@
           {
             "name": "NODE_0000004",
             "node_attrs": {
-              "div": 0.03181736,
+              "div": 0.03181758,
               "clade_membership": {
                 "value": "DENV4"
               }
@@ -785,7 +785,7 @@
               {
                 "name": "NODE_0000005",
                 "node_attrs": {
-                  "div": 0.046513460000000006,
+                  "div": 0.04651411,
                   "clade_membership": {
                     "value": "DENV4"
                   }
@@ -825,7 +825,7 @@
                   {
                     "name": "DENV4/INDONESIA/JMB005/2014",
                     "node_attrs": {
-                      "div": 0.05634008000000001,
+                      "div": 0.056340829999999995,
                       "clade_membership": {
                         "value": "DENV4"
                       }
@@ -861,7 +861,7 @@
                   {
                     "name": "DENV4/INDONESIA/08ATW/2009",
                     "node_attrs": {
-                      "div": 0.05306433000000001,
+                      "div": 0.053064639999999996,
                       "clade_membership": {
                         "value": "DENV4"
                       }
@@ -894,7 +894,7 @@
               {
                 "name": "NODE_0000006",
                 "node_attrs": {
-                  "div": 0.2515121,
+                  "div": 0.25153716,
                   "clade_membership": {
                     "value": "DENV2"
                   }
@@ -3882,7 +3882,7 @@
                   {
                     "name": "NODE_0000007",
                     "node_attrs": {
-                      "div": 0.41927416,
+                      "div": 0.41930663999999995,
                       "clade_membership": {
                         "value": "DENV2"
                       }
@@ -5781,7 +5781,7 @@
                       {
                         "name": "NODE_0000008",
                         "node_attrs": {
-                          "div": 0.43474193,
+                          "div": 0.43477442999999993,
                           "clade_membership": {
                             "value": "DENV2"
                           }
@@ -5824,7 +5824,7 @@
                           {
                             "name": "DENV/PERU/FPU0574R/2012",
                             "node_attrs": {
-                              "div": 0.45168108,
+                              "div": 0.45171333999999996,
                               "clade_membership": {
                                 "value": "DENV2"
                               }
@@ -5872,7 +5872,7 @@
                           {
                             "name": "DENV2/VENEZUELA/15957/NA",
                             "node_attrs": {
-                              "div": 0.44258959999999997,
+                              "div": 0.4426225099999999,
                               "clade_membership": {
                                 "value": "DENV2"
                               }
@@ -5911,7 +5911,7 @@
                       {
                         "name": "NODE_0000009",
                         "node_attrs": {
-                          "div": 0.43504188,
+                          "div": 0.43507578999999996,
                           "clade_membership": {
                             "value": "DENV2"
                           }
@@ -5959,7 +5959,7 @@
                           {
                             "name": "NODE_0000010",
                             "node_attrs": {
-                              "div": 0.47950476,
+                              "div": 0.47954029,
                               "clade_membership": {
                                 "value": "DENV2"
                               }
@@ -6049,7 +6049,7 @@
                               {
                                 "name": "DENV2/SINGAPORE/DED456/2008",
                                 "node_attrs": {
-                                  "div": 0.480172,
+                                  "div": 0.48020751,
                                   "clade_membership": {
                                     "value": "DENV2"
                                   }
@@ -6065,7 +6065,7 @@
                               {
                                 "name": "NODE_0000011",
                                 "node_attrs": {
-                                  "div": 0.48018984,
+                                  "div": 0.48022539999999997,
                                   "clade_membership": {
                                     "value": "DENV2"
                                   }
@@ -6081,7 +6081,7 @@
                                   {
                                     "name": "DENV2/SINGAPORE/95/2009",
                                     "node_attrs": {
-                                      "div": 0.48019083999999995,
+                                      "div": 0.48022639999999994,
                                       "clade_membership": {
                                         "value": "DENV2"
                                       }
@@ -6093,7 +6093,7 @@
                                   {
                                     "name": "DENV2/SINGAPORE/0778/2009",
                                     "node_attrs": {
-                                      "div": 0.48019083999999995,
+                                      "div": 0.48022639999999994,
                                       "clade_membership": {
                                         "value": "DENV2"
                                       }
@@ -6109,7 +6109,7 @@
                           {
                             "name": "NODE_0000012",
                             "node_attrs": {
-                              "div": 0.45529976,
+                              "div": 0.45533481,
                               "clade_membership": {
                                 "value": "DENV2"
                               }
@@ -6166,7 +6166,7 @@
                               {
                                 "name": "DENV2/THAILAND/0307/1983",
                                 "node_attrs": {
-                                  "div": 0.45830672,
+                                  "div": 0.45834187,
                                   "clade_membership": {
                                     "value": "DENV2"
                                   }
@@ -6186,7 +6186,7 @@
                               {
                                 "name": "NODE_0000013",
                                 "node_attrs": {
-                                  "div": 0.46411639,
+                                  "div": 0.4641515,
                                   "clade_membership": {
                                     "value": "DENV2"
                                   }
@@ -6222,7 +6222,7 @@
                                   {
                                     "name": "DENV2/THAILAND/NHP14/1993",
                                     "node_attrs": {
-                                      "div": 0.47174664,
+                                      "div": 0.47178431,
                                       "clade_membership": {
                                         "value": "DENV2"
                                       }
@@ -6342,7 +6342,7 @@
                                   {
                                     "name": "NODE_0000014",
                                     "node_attrs": {
-                                      "div": 0.46749148,
+                                      "div": 0.46752511,
                                       "clade_membership": {
                                         "value": "DENV2"
                                       }
@@ -6398,7 +6398,7 @@
                                       {
                                         "name": "DENV2/THAILAND/BIDV2309/2001",
                                         "node_attrs": {
-                                          "div": 0.47907238,
+                                          "div": 0.47910561,
                                           "clade_membership": {
                                             "value": "DENV2"
                                           }
@@ -6563,7 +6563,7 @@
                                       {
                                         "name": "NODE_0000015",
                                         "node_attrs": {
-                                          "div": 0.47737932,
+                                          "div": 0.47741309000000004,
                                           "clade_membership": {
                                             "value": "DENV2"
                                           }
@@ -6714,7 +6714,7 @@
                                           {
                                             "name": "NODE_0000016",
                                             "node_attrs": {
-                                              "div": 0.47828998,
+                                              "div": 0.47831959,
                                               "clade_membership": {
                                                 "value": "DENV2"
                                               }
@@ -6730,7 +6730,7 @@
                                               {
                                                 "name": "DENV2/CAMBODIA/BIDV2062/2007",
                                                 "node_attrs": {
-                                                  "div": 0.48387128,
+                                                  "div": 0.48390453,
                                                   "clade_membership": {
                                                     "value": "DENV2"
                                                   }
@@ -6824,7 +6824,7 @@
                                               {
                                                 "name": "DENV2/THAILAND/AILANDKPPKDS01228NC06SCHOLS11/2004",
                                                 "node_attrs": {
-                                                  "div": 0.48368583,
+                                                  "div": 0.48371549,
                                                   "clade_membership": {
                                                     "value": "DENV2"
                                                   }
@@ -6855,7 +6855,7 @@
                                           {
                                             "name": "NODE_0000017",
                                             "node_attrs": {
-                                              "div": 0.47800293,
+                                              "div": 0.47803653,
                                               "clade_membership": {
                                                 "value": "DENV2"
                                               }
@@ -6871,7 +6871,7 @@
                                               {
                                                 "name": "DENV2/THAILAND/30964/2001",
                                                 "node_attrs": {
-                                                  "div": 0.48004383,
+                                                  "div": 0.48007746,
                                                   "clade_membership": {
                                                     "value": "DENV2"
                                                   }
@@ -6889,7 +6889,7 @@
                                               {
                                                 "name": "DENV2/VIETNAM/BIDV715/2006",
                                                 "node_attrs": {
-                                                  "div": 0.48525232,
+                                                  "div": 0.48528679,
                                                   "clade_membership": {
                                                     "value": "DENV2"
                                                   }
@@ -7014,7 +7014,7 @@
                   {
                     "name": "NODE_0000018",
                     "node_attrs": {
-                      "div": 0.33651092000000005,
+                      "div": 0.33654268,
                       "clade_membership": {
                         "value": "DENV3"
                       }
@@ -7999,7 +7999,7 @@
                       {
                         "name": "NODE_0000019",
                         "node_attrs": {
-                          "div": 0.4950835800000001,
+                          "div": 0.49512734999999997,
                           "clade_membership": {
                             "value": "DENV3"
                           }
@@ -9807,7 +9807,7 @@
                           {
                             "name": "NODE_0000020",
                             "node_attrs": {
-                              "div": 0.5092412800000001,
+                              "div": 0.5092920599999999,
                               "clade_membership": {
                                 "value": "DENV3"
                               }
@@ -10015,7 +10015,7 @@
                               {
                                 "name": "DENV3/THAILAND/0006/1997",
                                 "node_attrs": {
-                                  "div": 0.5141284200000001,
+                                  "div": 0.5141791499999999,
                                   "clade_membership": {
                                     "value": "DENV3"
                                   }
@@ -10036,7 +10036,7 @@
                               {
                                 "name": "NODE_0000021",
                                 "node_attrs": {
-                                  "div": 0.5125410700000002,
+                                  "div": 0.51259044,
                                   "clade_membership": {
                                     "value": "DENV3"
                                   }
@@ -10057,7 +10057,7 @@
                                   {
                                     "name": "DENV3/CHINA/07CHLS001/2008",
                                     "node_attrs": {
-                                      "div": 0.5210763900000002,
+                                      "div": 0.52112374,
                                       "clade_membership": {
                                         "value": "DENV3"
                                       }
@@ -10184,7 +10184,7 @@
                                   {
                                     "name": "NODE_0000022",
                                     "node_attrs": {
-                                      "div": 0.5187494200000001,
+                                      "div": 0.5188007299999999,
                                       "clade_membership": {
                                         "value": "DENV3"
                                       }
@@ -10282,7 +10282,7 @@
                                       {
                                         "name": "DENV3/VIETNAM/BIDV1783/2007",
                                         "node_attrs": {
-                                          "div": 0.5194098000000001,
+                                          "div": 0.5194587399999999,
                                           "clade_membership": {
                                             "value": "DENV3"
                                           }
@@ -10298,7 +10298,7 @@
                                       {
                                         "name": "DENV3/VIETNAM/07ATW/2009",
                                         "node_attrs": {
-                                          "div": 0.5276740000000001,
+                                          "div": 0.5277272799999999,
                                           "clade_membership": {
                                             "value": "DENV3"
                                           }
@@ -10338,7 +10338,7 @@
                           {
                             "name": "NODE_0000023",
                             "node_attrs": {
-                              "div": 0.5066402200000001,
+                              "div": 0.50668171,
                               "clade_membership": {
                                 "value": "DENV3"
                               }
@@ -10491,7 +10491,7 @@
                               {
                                 "name": "DENV3/WALLIS_AND_FUTUNA/1404838/1989",
                                 "node_attrs": {
-                                  "div": 0.5383955600000001,
+                                  "div": 0.53843756,
                                   "clade_membership": {
                                     "value": "DENV3"
                                   }
@@ -10890,7 +10890,7 @@
                               {
                                 "name": "NODE_0000024",
                                 "node_attrs": {
-                                  "div": 0.5307253500000001,
+                                  "div": 0.5307612199999999,
                                   "clade_membership": {
                                     "value": "DENV3"
                                   }
@@ -11254,7 +11254,7 @@
                                   {
                                     "name": "DENV3/PAKISTAN/E52/2011",
                                     "node_attrs": {
-                                      "div": 0.5494609400000001,
+                                      "div": 0.5494957199999999,
                                       "clade_membership": {
                                         "value": "DENV3"
                                       }
@@ -11306,7 +11306,7 @@
                                   {
                                     "name": "NODE_0000025",
                                     "node_attrs": {
-                                      "div": 0.5364760600000001,
+                                      "div": 0.5365151899999999,
                                       "clade_membership": {
                                         "value": "DENV3"
                                       }
@@ -11336,7 +11336,7 @@
                                       {
                                         "name": "NODE_0000026",
                                         "node_attrs": {
-                                          "div": 0.5444377500000002,
+                                          "div": 0.5444775599999999,
                                           "clade_membership": {
                                             "value": "DENV3"
                                           }
@@ -11456,7 +11456,7 @@
                                           {
                                             "name": "DENV3/NICARAGUA/BIDV4829/2009",
                                             "node_attrs": {
-                                              "div": 0.5465656500000001,
+                                              "div": 0.5466055,
                                               "clade_membership": {
                                                 "value": "DENV3"
                                               }
@@ -11503,7 +11503,7 @@
                                           {
                                             "name": "DENV3/NICARAGUA/BIDV4856/2009",
                                             "node_attrs": {
-                                              "div": 0.5474584300000002,
+                                              "div": 0.5474984099999999,
                                               "clade_membership": {
                                                 "value": "DENV3"
                                               }
@@ -11563,7 +11563,7 @@
                                       {
                                         "name": "NODE_0000027",
                                         "node_attrs": {
-                                          "div": 0.5387065900000001,
+                                          "div": 0.5387438699999999,
                                           "clade_membership": {
                                             "value": "DENV3"
                                           }
@@ -11581,7 +11581,7 @@
                                           {
                                             "name": "DENV3/ARUBA/ARU1/1999",
                                             "node_attrs": {
-                                              "div": 0.54431415,
+                                              "div": 0.5443514999999999,
                                               "clade_membership": {
                                                 "value": "DENV3"
                                               }
@@ -11612,7 +11612,7 @@
                                           {
                                             "name": "NODE_0000028",
                                             "node_attrs": {
-                                              "div": 0.54150494,
+                                              "div": 0.5415422999999999,
                                               "clade_membership": {
                                                 "value": "DENV3"
                                               }
@@ -11631,7 +11631,7 @@
                                               {
                                                 "name": "DENV3/VENEZUELA/L6700/2001",
                                                 "node_attrs": {
-                                                  "div": 0.54355513,
+                                                  "div": 0.54359251,
                                                   "clade_membership": {
                                                     "value": "DENV3"
                                                   }
@@ -11655,7 +11655,7 @@
                                               {
                                                 "name": "DENV3/VENEZUELA/BIDV2479/2007",
                                                 "node_attrs": {
-                                                  "div": 0.5461623200000001,
+                                                  "div": 0.5462008199999999,
                                                   "clade_membership": {
                                                     "value": "DENV3"
                                                   }
@@ -11791,7 +11791,7 @@
                       {
                         "name": "NODE_0000029",
                         "node_attrs": {
-                          "div": 0.49747368000000003,
+                          "div": 0.49753002999999996,
                           "clade_membership": {
                             "value": "DENV1"
                           }
@@ -13645,7 +13645,7 @@
                           {
                             "name": "DENV1/INDONESIA/01ATW/2009",
                             "node_attrs": {
-                              "div": 0.54145224,
+                              "div": 0.5414698099999999,
                               "clade_membership": {
                                 "value": "DENV1"
                               }
@@ -13732,7 +13732,7 @@
                           {
                             "name": "NODE_0000030",
                             "node_attrs": {
-                              "div": 0.5074360800000001,
+                              "div": 0.5074757099999999,
                               "clade_membership": {
                                 "value": "DENV1"
                               }
@@ -13768,7 +13768,7 @@
                               {
                                 "name": "NODE_0000031",
                                 "node_attrs": {
-                                  "div": 0.5332520900000001,
+                                  "div": 0.5332881799999999,
                                   "clade_membership": {
                                     "value": "DENV1"
                                   }
@@ -14150,7 +14150,7 @@
                                   {
                                     "name": "NODE_0000032",
                                     "node_attrs": {
-                                      "div": 0.5466714300000001,
+                                      "div": 0.5467024399999999,
                                       "clade_membership": {
                                         "value": "DENV1"
                                       }
@@ -14374,7 +14374,7 @@
                                       {
                                         "name": "DENV1/MYANMAR/438266601/NA",
                                         "node_attrs": {
-                                          "div": 0.5569168900000001,
+                                          "div": 0.55694693,
                                           "clade_membership": {
                                             "value": "DENV1"
                                           }
@@ -14411,7 +14411,7 @@
                                       {
                                         "name": "DENV1/TAIWAN/832/1994",
                                         "node_attrs": {
-                                          "div": 0.5513029700000001,
+                                          "div": 0.5513455499999999,
                                           "clade_membership": {
                                             "value": "DENV1"
                                           }
@@ -14433,7 +14433,7 @@
                                   {
                                     "name": "NODE_0000033",
                                     "node_attrs": {
-                                      "div": 0.5491911700000001,
+                                      "div": 0.5491577199999998,
                                       "clade_membership": {
                                         "value": "DENV1"
                                       }
@@ -14458,7 +14458,6 @@
                                           "A961G",
                                           "G995T",
                                           "T1151C",
-                                          "C1445T",
                                           "T1449A",
                                           "C1493T",
                                           "C1517T",
@@ -14654,7 +14653,7 @@
                                       {
                                         "name": "NODE_0000034",
                                         "node_attrs": {
-                                          "div": 0.55071709,
+                                          "div": 0.5505826499999998,
                                           "clade_membership": {
                                             "value": "DENV1"
                                           }
@@ -14662,7 +14661,6 @@
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": [
-                                              "C1634T",
                                               "C1916T",
                                               "C2754T",
                                               "A3215G",
@@ -14695,7 +14693,7 @@
                                           {
                                             "name": "DENV1/VIETNAM/BIDV1862/2008",
                                             "node_attrs": {
-                                              "div": 0.56253609,
+                                              "div": 0.5623984199999998,
                                               "clade_membership": {
                                                 "value": "DENV1"
                                               }
@@ -14719,10 +14717,10 @@
                                                   "C1182T",
                                                   "A1278C",
                                                   "C1385T",
-                                                  "T1445C",
                                                   "C1584T",
                                                   "C1601T",
                                                   "A1613G",
+                                                  "C1634T",
                                                   "C1883T",
                                                   "C1943T",
                                                   "A2021G",
@@ -14877,9 +14875,9 @@
                                             }
                                           },
                                           {
-                                            "name": "DENV1/VIETNAM/BIDV935/2006",
+                                            "name": "NODE_0000035",
                                             "node_attrs": {
-                                              "div": 0.56091991,
+                                              "div": 0.5526472099999998,
                                               "clade_membership": {
                                                 "value": "DENV1"
                                               }
@@ -14887,153 +14885,207 @@
                                             "branch_attrs": {
                                               "mutations": {
                                                 "nuc": [
-                                                  "A59G",
-                                                  "C368T",
-                                                  "T530C",
-                                                  "A572T",
-                                                  "A596G",
-                                                  "A605G",
-                                                  "T681A",
-                                                  "C688T",
-                                                  "T909C",
-                                                  "T922C",
-                                                  "C938A",
-                                                  "C947T",
-                                                  "A1052G",
-                                                  "C1109T",
-                                                  "C1148T",
-                                                  "C1250A",
-                                                  "T1373A",
-                                                  "C1420T",
-                                                  "A1446T",
-                                                  "T1658C",
-                                                  "A1811G",
-                                                  "G1838A",
                                                   "T1989C",
                                                   "G1991A",
-                                                  "T2210C",
-                                                  "T2234C",
-                                                  "T2255C",
-                                                  "T2276C",
                                                   "G2318A",
-                                                  "C2397T",
-                                                  "G2579A",
-                                                  "T2594A",
-                                                  "T2679C",
-                                                  "G2708A",
-                                                  "A2723G",
-                                                  "G2773T",
-                                                  "A2807G",
-                                                  "C2813T",
-                                                  "A3104G",
-                                                  "A3194G",
-                                                  "G3394A",
-                                                  "C3497T",
-                                                  "G3746A",
-                                                  "A3878G",
-                                                  "A3943G",
-                                                  "T3983C",
-                                                  "G4481A",
-                                                  "A4694T",
-                                                  "G4832A",
-                                                  "C4841A",
-                                                  "C4878T",
-                                                  "T4973C",
-                                                  "C5045T",
-                                                  "A5167G",
-                                                  "C5178T",
-                                                  "C5321T",
-                                                  "A5447G",
-                                                  "A5456G",
-                                                  "T5618C",
-                                                  "C5690T",
-                                                  "C5978T",
-                                                  "T6011C",
-                                                  "C6131T",
-                                                  "C6188T",
-                                                  "C6297A",
-                                                  "C6317T",
-                                                  "G6437A",
-                                                  "C6458T",
-                                                  "T6872C",
-                                                  "A7034G",
-                                                  "C7286T",
-                                                  "G7358A",
-                                                  "G7406A",
-                                                  "C7625T",
-                                                  "C7643T",
-                                                  "T7661C",
-                                                  "A7676G",
-                                                  "C7739A",
-                                                  "C7769T",
-                                                  "T7772C",
-                                                  "T7838C",
-                                                  "A7898G",
-                                                  "C7904T",
-                                                  "T7973C",
-                                                  "T8204C",
-                                                  "T8285C",
-                                                  "T8456C",
-                                                  "T8477C",
-                                                  "A8501G",
-                                                  "T8600C",
-                                                  "T8627C",
-                                                  "T8997C",
-                                                  "T9020C",
-                                                  "C9077T",
-                                                  "T9113C",
-                                                  "T9209C",
-                                                  "C9278A",
-                                                  "A9428G",
-                                                  "T9513C",
-                                                  "A9626T",
-                                                  "A10053G",
-                                                  "A10185C",
-                                                  "C10238T",
-                                                  "C10250T",
-                                                  "C10388T"
-                                                ],
-                                                "E": [
-                                                  "T161I",
-                                                  "T170S"
-                                                ],
-                                                "M": [
-                                                  "V70A"
-                                                ],
-                                                "NS1": [
-                                                  "F86L",
-                                                  "S117I",
-                                                  "R324K"
-                                                ],
-                                                "NS2A": [
-                                                  "K155R"
-                                                ],
-                                                "NS3": [
-                                                  "P119S",
-                                                  "K215R"
-                                                ],
-                                                "NS5": [
-                                                  "Y651H",
-                                                  "I831V",
-                                                  "I875L"
-                                                ],
-                                                "pr": [
-                                                  "L44F",
-                                                  "S81T",
-                                                  "T83I"
+                                                  "C2397T"
                                                 ]
-                                              },
-                                              "labels": {
-                                                "aa": "E: T161I, T170S; M: V70A; NS1: F86L, S117I, R324K; NS2A: K155R; NS3: P119S, K215R; NS5: Y651H, I831V, I875L; pr: L44F, S81T, T83I"
                                               }
-                                            }
+                                            },
+                                            "children": [
+                                              {
+                                                "name": "DENV1/VIETNAM/QUYNHON138020JUN/2009",
+                                                "node_attrs": {
+                                                  "div": 0.5621865099999999,
+                                                  "clade_membership": {
+                                                    "value": "DENV1"
+                                                  }
+                                                },
+                                                "branch_attrs": {
+                                                  "mutations": {
+                                                    "nuc": [
+                                                      "C1011T",
+                                                      "G1184A",
+                                                      "A1337G",
+                                                      "C1367T",
+                                                      "T1373C",
+                                                      "G1388A",
+                                                      "T1499C",
+                                                      "C1578T",
+                                                      "T1644C",
+                                                      "T1793C",
+                                                      "A1822G",
+                                                      "C2000T",
+                                                      "G2183A",
+                                                      "G2327A"
+                                                    ],
+                                                    "E": [
+                                                      "K295R"
+                                                    ]
+                                                  },
+                                                  "labels": {
+                                                    "aa": "E: K295R"
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "name": "DENV1/VIETNAM/BIDV935/2006",
+                                                "node_attrs": {
+                                                  "div": 0.5609849599999999,
+                                                  "clade_membership": {
+                                                    "value": "DENV1"
+                                                  }
+                                                },
+                                                "branch_attrs": {
+                                                  "mutations": {
+                                                    "nuc": [
+                                                      "A59G",
+                                                      "C368T",
+                                                      "T530C",
+                                                      "A572T",
+                                                      "A596G",
+                                                      "A605G",
+                                                      "T681A",
+                                                      "C688T",
+                                                      "T909C",
+                                                      "T922C",
+                                                      "C938A",
+                                                      "C947T",
+                                                      "A1052G",
+                                                      "C1109T",
+                                                      "C1148T",
+                                                      "C1250A",
+                                                      "T1373A",
+                                                      "C1420T",
+                                                      "C1445T",
+                                                      "A1446T",
+                                                      "C1634T",
+                                                      "T1658C",
+                                                      "A1811G",
+                                                      "G1838A",
+                                                      "T2210C",
+                                                      "T2234C",
+                                                      "T2255C",
+                                                      "T2276C",
+                                                      "G2579A",
+                                                      "T2594A",
+                                                      "T2679C",
+                                                      "G2708A",
+                                                      "A2723G",
+                                                      "G2773T",
+                                                      "A2807G",
+                                                      "C2813T",
+                                                      "A3104G",
+                                                      "A3194G",
+                                                      "G3394A",
+                                                      "C3497T",
+                                                      "G3746A",
+                                                      "A3878G",
+                                                      "A3943G",
+                                                      "T3983C",
+                                                      "G4481A",
+                                                      "A4694T",
+                                                      "G4832A",
+                                                      "C4841A",
+                                                      "C4878T",
+                                                      "T4973C",
+                                                      "C5045T",
+                                                      "A5167G",
+                                                      "C5178T",
+                                                      "C5321T",
+                                                      "A5447G",
+                                                      "A5456G",
+                                                      "T5618C",
+                                                      "C5690T",
+                                                      "C5978T",
+                                                      "T6011C",
+                                                      "C6131T",
+                                                      "C6188T",
+                                                      "C6297A",
+                                                      "C6317T",
+                                                      "G6437A",
+                                                      "C6458T",
+                                                      "T6872C",
+                                                      "A7034G",
+                                                      "C7286T",
+                                                      "G7358A",
+                                                      "G7406A",
+                                                      "C7625T",
+                                                      "C7643T",
+                                                      "T7661C",
+                                                      "A7676G",
+                                                      "C7739A",
+                                                      "C7769T",
+                                                      "T7772C",
+                                                      "T7838C",
+                                                      "A7898G",
+                                                      "C7904T",
+                                                      "T7973C",
+                                                      "T8204C",
+                                                      "T8285C",
+                                                      "T8456C",
+                                                      "T8477C",
+                                                      "A8501G",
+                                                      "T8600C",
+                                                      "T8627C",
+                                                      "T8997C",
+                                                      "T9020C",
+                                                      "C9077T",
+                                                      "T9113C",
+                                                      "T9209C",
+                                                      "C9278A",
+                                                      "A9428G",
+                                                      "T9513C",
+                                                      "A9626T",
+                                                      "A10053G",
+                                                      "A10185C",
+                                                      "C10238T",
+                                                      "C10250T",
+                                                      "C10388T"
+                                                    ],
+                                                    "E": [
+                                                      "T161I",
+                                                      "T170S"
+                                                    ],
+                                                    "M": [
+                                                      "V70A"
+                                                    ],
+                                                    "NS1": [
+                                                      "F86L",
+                                                      "S117I",
+                                                      "R324K"
+                                                    ],
+                                                    "NS2A": [
+                                                      "K155R"
+                                                    ],
+                                                    "NS3": [
+                                                      "P119S",
+                                                      "K215R"
+                                                    ],
+                                                    "NS5": [
+                                                      "Y651H",
+                                                      "I831V",
+                                                      "I875L"
+                                                    ],
+                                                    "pr": [
+                                                      "L44F",
+                                                      "S81T",
+                                                      "T83I"
+                                                    ]
+                                                  },
+                                                  "labels": {
+                                                    "aa": "E: T161I, T170S; M: V70A; NS1: F86L, S117I, R324K; NS2A: K155R; NS3: P119S, K215R; NS5: Y651H, I831V, I875L; pr: L44F, S81T, T83I"
+                                                  }
+                                                }
+                                              }
+                                            ]
                                           }
                                         ]
                                       },
                                       {
-                                        "name": "NODE_0000035",
+                                        "name": "NODE_0000036",
                                         "node_attrs": {
-                                          "div": 0.54990216,
+                                          "div": 0.5503337399999999,
                                           "clade_membership": {
                                             "value": "DENV1"
                                           }
@@ -15041,15 +15093,16 @@
                                         "branch_attrs": {
                                           "mutations": {
                                             "nuc": [
+                                              "C1445T",
                                               "C2000T"
                                             ]
                                           }
                                         },
                                         "children": [
                                           {
-                                            "name": "NODE_0000036",
+                                            "name": "NODE_0000037",
                                             "node_attrs": {
-                                              "div": 0.5548611800000001,
+                                              "div": 0.5598848099999999,
                                               "clade_membership": {
                                                 "value": "DENV1"
                                               }
@@ -15075,9 +15128,16 @@
                                                   "A1337G",
                                                   "C1367T",
                                                   "G1388A",
+                                                  "T1517C",
                                                   "C1578T",
                                                   "T1644C",
                                                   "T1793C",
+                                                  "G1872T",
+                                                  "C2012T",
+                                                  "T2054C",
+                                                  "G2075A",
+                                                  "A2336G",
+                                                  "T2340C",
                                                   "T2441A",
                                                   "C2651T",
                                                   "T2658C",
@@ -15173,6 +15233,9 @@
                                                   "S26P",
                                                   "N74S"
                                                 ],
+                                                "E": [
+                                                  "V312L"
+                                                ],
                                                 "NS1": [
                                                   "I224T"
                                                 ],
@@ -15193,14 +15256,14 @@
                                                 ]
                                               },
                                               "labels": {
-                                                "aa": "C: S26P, N74S; NS1: I224T; NS2A: M45V, V60I, I173V, Q188L, K218R; NS5: H53Y, K552R, V789I; pr: A59T"
+                                                "aa": "C: S26P, N74S; E: V312L; NS1: I224T; NS2A: M45V, V60I, I173V, Q188L, K218R; NS5: H53Y, K552R, V789I; pr: A59T"
                                               }
                                             },
                                             "children": [
                                               {
-                                                "name": "DENV1/VIETNAM/QUYNHON138020JUN/2009",
+                                                "name": "DENV1/NEW_CALEDONIA/170256/2012",
                                                 "node_attrs": {
-                                                  "div": 0.5628816900000001,
+                                                  "div": 0.5652048899999998,
                                                   "clade_membership": {
                                                     "value": "DENV1"
                                                   }
@@ -15208,32 +15271,22 @@
                                                 "branch_attrs": {
                                                   "mutations": {
                                                     "nuc": [
-                                                      "C1011T",
+                                                      "T1059C",
+                                                      "T1127C",
                                                       "T1373C",
-                                                      "T1445C",
-                                                      "T1499C",
-                                                      "A1822G",
-                                                      "C1916T",
-                                                      "T1989C",
-                                                      "G1991A",
-                                                      "G2183A",
-                                                      "G2318A",
-                                                      "G2327A",
-                                                      "C2397T"
-                                                    ],
-                                                    "E": [
-                                                      "K295R"
+                                                      "C1557T",
+                                                      "A1622G",
+                                                      "A1694G",
+                                                      "C1748T",
+                                                      "C2177T"
                                                     ]
-                                                  },
-                                                  "labels": {
-                                                    "aa": "E: K295R"
                                                   }
                                                 }
                                               },
                                               {
-                                                "name": "NODE_0000037",
+                                                "name": "DENV1/VIETNAM/VIETM10DX2318013000MG48HRS/NA",
                                                 "node_attrs": {
-                                                  "div": 0.5597081,
+                                                  "div": 0.5617879199999999,
                                                   "clade_membership": {
                                                     "value": "DENV1"
                                                   }
@@ -15241,72 +15294,19 @@
                                                 "branch_attrs": {
                                                   "mutations": {
                                                     "nuc": [
-                                                      "T1517C",
-                                                      "G1872T",
-                                                      "C2012T",
-                                                      "T2054C",
-                                                      "G2075A",
-                                                      "A2336G",
-                                                      "T2340C"
-                                                    ],
-                                                    "E": [
-                                                      "V312L"
+                                                      "C1064T",
+                                                      "G1904A",
+                                                      "G2324C"
                                                     ]
-                                                  },
-                                                  "labels": {
-                                                    "aa": "E: V312L"
                                                   }
-                                                },
-                                                "children": [
-                                                  {
-                                                    "name": "DENV1/NEW_CALEDONIA/170256/2012",
-                                                    "node_attrs": {
-                                                      "div": 0.56488594,
-                                                      "clade_membership": {
-                                                        "value": "DENV1"
-                                                      }
-                                                    },
-                                                    "branch_attrs": {
-                                                      "mutations": {
-                                                        "nuc": [
-                                                          "T1059C",
-                                                          "T1127C",
-                                                          "T1373C",
-                                                          "C1557T",
-                                                          "A1622G",
-                                                          "A1694G",
-                                                          "C1748T",
-                                                          "C2177T"
-                                                        ]
-                                                      }
-                                                    }
-                                                  },
-                                                  {
-                                                    "name": "DENV1/VIETNAM/VIETM10DX2318013000MG48HRS/NA",
-                                                    "node_attrs": {
-                                                      "div": 0.5617684300000001,
-                                                      "clade_membership": {
-                                                        "value": "DENV1"
-                                                      }
-                                                    },
-                                                    "branch_attrs": {
-                                                      "mutations": {
-                                                        "nuc": [
-                                                          "C1064T",
-                                                          "G1904A",
-                                                          "G2324C"
-                                                        ]
-                                                      }
-                                                    }
-                                                  }
-                                                ]
+                                                }
                                               }
                                             ]
                                           },
                                           {
                                             "name": "NODE_0000038",
                                             "node_attrs": {
-                                              "div": 0.55060681,
+                                              "div": 0.5510189299999999,
                                               "clade_membership": {
                                                 "value": "DENV1"
                                               }
@@ -15322,7 +15322,7 @@
                                               {
                                                 "name": "DENV1/MYANMAR/MOS0592101/NA",
                                                 "node_attrs": {
-                                                  "div": 0.56011784,
+                                                  "div": 0.5605310699999999,
                                                   "clade_membership": {
                                                     "value": "DENV1"
                                                   }
@@ -15360,7 +15360,7 @@
                                               {
                                                 "name": "NODE_0000039",
                                                 "node_attrs": {
-                                                  "div": 0.5512748,
+                                                  "div": 0.5516869099999999,
                                                   "clade_membership": {
                                                     "value": "DENV1"
                                                   }
@@ -15376,7 +15376,7 @@
                                                   {
                                                     "name": "DENV1/THAILAND/AILANDKPPKDV06233KT02435V/2006",
                                                     "node_attrs": {
-                                                      "div": 0.55538291,
+                                                      "div": 0.5557943099999999,
                                                       "clade_membership": {
                                                         "value": "DENV1"
                                                       }
@@ -15397,7 +15397,7 @@
                                                   {
                                                     "name": "DENV1/SINGAPORE/DED1459/2008",
                                                     "node_attrs": {
-                                                      "div": 0.5642157099999999,
+                                                      "div": 0.5646288799999999,
                                                       "clade_membership": {
                                                         "value": "DENV1"
                                                       }
@@ -15448,7 +15448,7 @@
                               {
                                 "name": "NODE_0000040",
                                 "node_attrs": {
-                                  "div": 0.5255576200000001,
+                                  "div": 0.5255861,
                                   "clade_membership": {
                                     "value": "DENV1"
                                   }
@@ -15747,7 +15747,7 @@
                                   {
                                     "name": "DENV1/CHINA/FJ216/2014",
                                     "node_attrs": {
-                                      "div": 0.5561070600000001,
+                                      "div": 0.5560755799999999,
                                       "clade_membership": {
                                         "value": "DENV1"
                                       }
@@ -15815,7 +15815,7 @@
                                   {
                                     "name": "NODE_0000041",
                                     "node_attrs": {
-                                      "div": 0.5315485000000001,
+                                      "div": 0.5316125899999999,
                                       "clade_membership": {
                                         "value": "DENV1"
                                       }
@@ -15842,7 +15842,7 @@
                                       {
                                         "name": "DENV/BRAZIL/SJRP778/2013",
                                         "node_attrs": {
-                                          "div": 0.55427486,
+                                          "div": 0.55434551,
                                           "clade_membership": {
                                             "value": "DENV1"
                                           }
@@ -15899,7 +15899,7 @@
                                       {
                                         "name": "NODE_0000042",
                                         "node_attrs": {
-                                          "div": 0.5344161000000001,
+                                          "div": 0.5344763699999999,
                                           "clade_membership": {
                                             "value": "DENV1"
                                           }
@@ -15919,7 +15919,7 @@
                                           {
                                             "name": "DENV1/NA/4642CAMPECHE95/NA",
                                             "node_attrs": {
-                                              "div": 0.5453975000000001,
+                                              "div": 0.5454627299999999,
                                               "clade_membership": {
                                                 "value": "DENV1"
                                               }
@@ -15959,7 +15959,7 @@
                                           {
                                             "name": "NODE_0000043",
                                             "node_attrs": {
-                                              "div": 0.53495634,
+                                              "div": 0.53501466,
                                               "clade_membership": {
                                                 "value": "DENV1"
                                               }
@@ -15975,7 +15975,7 @@
                                               {
                                                 "name": "DENV1/FRENCH_POLYNESIA/FP895103/NA",
                                                 "node_attrs": {
-                                                  "div": 0.5507420900000001,
+                                                  "div": 0.5508047699999999,
                                                   "clade_membership": {
                                                     "value": "DENV1"
                                                   }
@@ -16021,7 +16021,7 @@
                                               {
                                                 "name": "NODE_0000044",
                                                 "node_attrs": {
-                                                  "div": 0.54058213,
+                                                  "div": 0.5406341299999999,
                                                   "clade_membership": {
                                                     "value": "DENV1"
                                                   }
@@ -16048,7 +16048,7 @@
                                                   {
                                                     "name": "NODE_0000045",
                                                     "node_attrs": {
-                                                      "div": 0.55118059,
+                                                      "div": 0.5512326999999999,
                                                       "clade_membership": {
                                                         "value": "DENV1"
                                                       }
@@ -16194,7 +16194,7 @@
                                                       {
                                                         "name": "DENV1/VENEZUELA/BIDV2254/2005",
                                                         "node_attrs": {
-                                                          "div": 0.5511827,
+                                                          "div": 0.5512347599999999,
                                                           "clade_membership": {
                                                             "value": "DENV1"
                                                           }
@@ -16206,7 +16206,7 @@
                                                       {
                                                         "name": "DENV1/PARAGUAY/LM54/2011",
                                                         "node_attrs": {
-                                                          "div": 0.55727562,
+                                                          "div": 0.5573277499999999,
                                                           "clade_membership": {
                                                             "value": "DENV1"
                                                           }
@@ -16239,7 +16239,7 @@
                                                   {
                                                     "name": "NODE_0000046",
                                                     "node_attrs": {
-                                                      "div": 0.54291688,
+                                                      "div": 0.5429679199999999,
                                                       "clade_membership": {
                                                         "value": "DENV1"
                                                       }
@@ -16296,7 +16296,7 @@
                                                       {
                                                         "name": "DENV1/VENEZUELA/BIDV3561/2006",
                                                         "node_attrs": {
-                                                          "div": 0.54696252,
+                                                          "div": 0.5470131899999999,
                                                           "clade_membership": {
                                                             "value": "DENV1"
                                                           }
@@ -16365,7 +16365,7 @@
                                                       {
                                                         "name": "NODE_0000047",
                                                         "node_attrs": {
-                                                          "div": 0.54884274,
+                                                          "div": 0.54889391,
                                                           "clade_membership": {
                                                             "value": "DENV1"
                                                           }
@@ -16482,7 +16482,7 @@
                                                           {
                                                             "name": "DENV1/USA/DB081/2010",
                                                             "node_attrs": {
-                                                              "div": 0.55224444,
+                                                              "div": 0.55229563,
                                                               "clade_membership": {
                                                                 "value": "DENV1"
                                                               }
@@ -16502,7 +16502,7 @@
                                                           {
                                                             "name": "NODE_0000048",
                                                             "node_attrs": {
-                                                              "div": 0.54931812,
+                                                              "div": 0.5493693199999999,
                                                               "clade_membership": {
                                                                 "value": "DENV1"
                                                               }
@@ -16518,7 +16518,7 @@
                                                               {
                                                                 "name": "DENV1/MEXICO/18/2007",
                                                                 "node_attrs": {
-                                                                  "div": 0.5499942600000001,
+                                                                  "div": 0.55004546,
                                                                   "clade_membership": {
                                                                     "value": "DENV1"
                                                                   }
@@ -16534,7 +16534,7 @@
                                                               {
                                                                 "name": "DENV1/NICARAGUA/BIDV602/2005",
                                                                 "node_attrs": {
-                                                                  "div": 0.55128254,
+                                                                  "div": 0.5513339199999999,
                                                                   "clade_membership": {
                                                                     "value": "DENV1"
                                                                   }

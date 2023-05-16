@@ -146,7 +146,7 @@
       {
         "name": "NC_001474.2",
         "node_attrs": {
-          "div": 0.00698229,
+          "div": 0.00698182,
           "clade_membership": {
             "value": "DENV2"
           }
@@ -248,7 +248,7 @@
       {
         "name": "NODE_0000001",
         "node_attrs": {
-          "div": 0.01788517,
+          "div": 0.01788473,
           "clade_membership": {
             "value": "DENV2"
           }
@@ -492,7 +492,7 @@
           {
             "name": "DENV2/THAILAND/BIDV2279/2001",
             "node_attrs": {
-              "div": 0.03121193,
+              "div": 0.03121189,
               "clade_membership": {
                 "value": "DENV2"
               }
@@ -675,7 +675,7 @@
           {
             "name": "NODE_0000002",
             "node_attrs": {
-              "div": 0.02599234,
+              "div": 0.025992180000000004,
               "clade_membership": {
                 "value": "DENV2"
               }
@@ -853,7 +853,7 @@
               {
                 "name": "DENV2/THAILAND/05692/2001",
                 "node_attrs": {
-                  "div": 0.03342828,
+                  "div": 0.03342823,
                   "clade_membership": {
                     "value": "DENV2"
                   }
@@ -879,7 +879,7 @@
               {
                 "name": "NODE_0000003",
                 "node_attrs": {
-                  "div": 0.02816184,
+                  "div": 0.028161600000000002,
                   "clade_membership": {
                     "value": "DENV2"
                   }
@@ -903,7 +903,7 @@
                   {
                     "name": "DENV2/NA/L041537/NA",
                     "node_attrs": {
-                      "div": 0.03088329,
+                      "div": 0.03088308,
                       "clade_membership": {
                         "value": "DENV2"
                       }
@@ -922,7 +922,7 @@
                   {
                     "name": "NODE_0000004",
                     "node_attrs": {
-                      "div": 0.029601040000000002,
+                      "div": 0.029600360000000003,
                       "clade_membership": {
                         "value": "DENV2"
                       }
@@ -939,7 +939,7 @@
                       {
                         "name": "NODE_0000005",
                         "node_attrs": {
-                          "div": 0.031376930000000004,
+                          "div": 0.031376230000000005,
                           "clade_membership": {
                             "value": "DENV2"
                           }
@@ -957,7 +957,7 @@
                           {
                             "name": "DENV2/THAILAND/DB061/2006",
                             "node_attrs": {
-                              "div": 0.03456825,
+                              "div": 0.03456755,
                               "clade_membership": {
                                 "value": "DENV2"
                               }
@@ -977,7 +977,7 @@
                           {
                             "name": "NODE_0000006",
                             "node_attrs": {
-                              "div": 0.033632180000000005,
+                              "div": 0.03363149000000001,
                               "clade_membership": {
                                 "value": "DENV2"
                               }
@@ -995,7 +995,7 @@
                               {
                                 "name": "DENV2/VIETNAM/134DL/2012",
                                 "node_attrs": {
-                                  "div": 0.03430395000000001,
+                                  "div": 0.034303270000000004,
                                   "clade_membership": {
                                     "value": "DENV2"
                                   }
@@ -1011,7 +1011,7 @@
                               {
                                 "name": "DENV2/VIETNAM/09DX698/2011",
                                 "node_attrs": {
-                                  "div": 0.03635117,
+                                  "div": 0.03635051000000001,
                                   "clade_membership": {
                                     "value": "DENV2"
                                   }
@@ -1034,7 +1034,7 @@
                       {
                         "name": "NODE_0000007",
                         "node_attrs": {
-                          "div": 0.03049744,
+                          "div": 0.030496750000000003,
                           "clade_membership": {
                             "value": "DENV2"
                           }
@@ -1050,7 +1050,7 @@
                           {
                             "name": "NODE_0000008",
                             "node_attrs": {
-                              "div": 0.03409064,
+                              "div": 0.03408946,
                               "clade_membership": {
                                 "value": "DENV2"
                               }
@@ -1116,7 +1116,7 @@
                               {
                                 "name": "DENV2/NA/R051358/NA",
                                 "node_attrs": {
-                                  "div": 0.034767309999999996,
+                                  "div": 0.03476614,
                                   "clade_membership": {
                                     "value": "DENV2"
                                   }
@@ -1132,7 +1132,7 @@
                               {
                                 "name": "DENV2/NA/B6BRAINP0408/NA",
                                 "node_attrs": {
-                                  "div": 0.03409164,
+                                  "div": 0.03409046,
                                   "clade_membership": {
                                     "value": "DENV2"
                                   }
@@ -1146,7 +1146,7 @@
                           {
                             "name": "NODE_0000009",
                             "node_attrs": {
-                              "div": 0.03501721,
+                              "div": 0.035016570000000004,
                               "clade_membership": {
                                 "value": "DENV2"
                               }
@@ -1223,7 +1223,7 @@
                               {
                                 "name": "DENV2/THAILAND/P0408/NA",
                                 "node_attrs": {
-                                  "div": 0.03605999,
+                                  "div": 0.036059310000000004,
                                   "clade_membership": {
                                     "value": "DENV2"
                                   }
@@ -1246,7 +1246,7 @@
                               {
                                 "name": "DENV2/THAILAND/AILAND/2007",
                                 "node_attrs": {
-                                  "div": 0.03501821,
+                                  "div": 0.035017570000000005,
                                   "clade_membership": {
                                     "value": "DENV2"
                                   }
@@ -1270,7 +1270,7 @@
       {
         "name": "NODE_0000010",
         "node_attrs": {
-          "div": 0.01468936,
+          "div": 0.0146895,
           "clade_membership": {
             "value": "DENV2/AA"
           }
@@ -1467,7 +1467,7 @@
           {
             "name": "DENV2/NA/BIDV2621/2008",
             "node_attrs": {
-              "div": 0.02488073,
+              "div": 0.02488096,
               "clade_membership": {
                 "value": "DENV2/AA"
               }
@@ -1628,7 +1628,7 @@
           {
             "name": "NODE_0000011",
             "node_attrs": {
-              "div": 0.01981005,
+              "div": 0.01981038,
               "clade_membership": {
                 "value": "DENV2/AA"
               }
@@ -1703,7 +1703,7 @@
               {
                 "name": "NODE_0000012",
                 "node_attrs": {
-                  "div": 0.04478791,
+                  "div": 0.044788839999999996,
                   "clade_membership": {
                     "value": "DENV2/AA"
                   }
@@ -2028,7 +2028,7 @@
                   {
                     "name": "NODE_0000013",
                     "node_attrs": {
-                      "div": 0.05403184,
+                      "div": 0.0540331,
                       "clade_membership": {
                         "value": "DENV2/AA"
                       }
@@ -2064,7 +2064,7 @@
                       {
                         "name": "DENV2/VIETNAM/BD341/2006",
                         "node_attrs": {
-                          "div": 0.060262319999999994,
+                          "div": 0.06026364,
                           "clade_membership": {
                             "value": "DENV2/AA"
                           }
@@ -2097,7 +2097,7 @@
                       {
                         "name": "DENV2/VIETNAM/HCM18C/2002",
                         "node_attrs": {
-                          "div": 0.06505462,
+                          "div": 0.06505584,
                           "clade_membership": {
                             "value": "DENV2/AA"
                           }
@@ -2343,7 +2343,7 @@
                   {
                     "name": "NODE_0000014",
                     "node_attrs": {
-                      "div": 0.050097920000000004,
+                      "div": 0.05009718,
                       "clade_membership": {
                         "value": "DENV2/AA"
                       }
@@ -2483,7 +2483,7 @@
                       {
                         "name": "DENV2/JAMAICA/AY484605/NA",
                         "node_attrs": {
-                          "div": 0.051481830000000006,
+                          "div": 0.0514805,
                           "clade_membership": {
                             "value": "DENV2/AA"
                           }
@@ -2505,7 +2505,7 @@
                       {
                         "name": "NODE_0000015",
                         "node_attrs": {
-                          "div": 0.05434536,
+                          "div": 0.05434705,
                           "clade_membership": {
                             "value": "DENV2/AA"
                           }
@@ -2532,7 +2532,7 @@
                           {
                             "name": "DENV2/PUERTO_RICO/BIDV856/1986",
                             "node_attrs": {
-                              "div": 0.05759541,
+                              "div": 0.05759692,
                               "clade_membership": {
                                 "value": "DENV2/AA"
                               }
@@ -2593,7 +2593,7 @@
                           {
                             "name": "NODE_0000016",
                             "node_attrs": {
-                              "div": 0.05464813,
+                              "div": 0.05464978,
                               "clade_membership": {
                                 "value": "DENV2/AA"
                               }
@@ -2617,7 +2617,7 @@
                               {
                                 "name": "NODE_0000017",
                                 "node_attrs": {
-                                  "div": 0.05534249,
+                                  "div": 0.05534426,
                                   "clade_membership": {
                                     "value": "DENV2/AA"
                                   }
@@ -2649,7 +2649,7 @@
                                   {
                                     "name": "DENV2/PUERTO_RICO/BIDV851/1990",
                                     "node_attrs": {
-                                      "div": 0.06149751,
+                                      "div": 0.06149926,
                                       "clade_membership": {
                                         "value": "DENV2/AA"
                                       }
@@ -2750,7 +2750,7 @@
                                   {
                                     "name": "NODE_0000018",
                                     "node_attrs": {
-                                      "div": 0.05700499,
+                                      "div": 0.05700652,
                                       "clade_membership": {
                                         "value": "DENV2/AA"
                                       }
@@ -2768,7 +2768,7 @@
                                       {
                                         "name": "DENV2/PUERTO_RICO/BIDV1393/1998",
                                         "node_attrs": {
-                                          "div": 0.06700777,
+                                          "div": 0.06701,
                                           "clade_membership": {
                                             "value": "DENV2/AA"
                                           }
@@ -2937,7 +2937,7 @@
                                       {
                                         "name": "NODE_0000019",
                                         "node_attrs": {
-                                          "div": 0.05820391,
+                                          "div": 0.058205469999999995,
                                           "clade_membership": {
                                             "value": "DENV2/AA"
                                           }
@@ -2960,7 +2960,7 @@
                                           {
                                             "name": "DENV2/BRAZIL/72471RJ/2001",
                                             "node_attrs": {
-                                              "div": 0.06562417,
+                                              "div": 0.06562577,
                                               "clade_membership": {
                                                 "value": "DENV2/AA"
                                               }
@@ -2999,7 +2999,7 @@
                                           {
                                             "name": "DENV2/PERU/OBT2093R/2001",
                                             "node_attrs": {
-                                              "div": 0.07140739,
+                                              "div": 0.07140909999999999,
                                               "clade_membership": {
                                                 "value": "DENV2/AA"
                                               }
@@ -3047,7 +3047,7 @@
                               {
                                 "name": "NODE_0000020",
                                 "node_attrs": {
-                                  "div": 0.06079608,
+                                  "div": 0.06079723,
                                   "clade_membership": {
                                     "value": "DENV2/AA"
                                   }
@@ -3150,7 +3150,7 @@
                                   {
                                     "name": "DENV2/VENEZUELA/LARD8336/2001",
                                     "node_attrs": {
-                                      "div": 0.06697611,
+                                      "div": 0.06697787,
                                       "clade_membership": {
                                         "value": "DENV2/AA"
                                       }
@@ -3174,7 +3174,7 @@
                                   {
                                     "name": "NODE_0000021",
                                     "node_attrs": {
-                                      "div": 0.06135448,
+                                      "div": 0.06135642,
                                       "clade_membership": {
                                         "value": "DENV2/AA"
                                       }
@@ -3190,7 +3190,7 @@
                                       {
                                         "name": "NODE_0000022",
                                         "node_attrs": {
-                                          "div": 0.06312792,
+                                          "div": 0.06312997000000001,
                                           "clade_membership": {
                                             "value": "DENV2/AA"
                                           }
@@ -3214,7 +3214,7 @@
                                           {
                                             "name": "DENV2/PERU/MIS1313R/2011",
                                             "node_attrs": {
-                                              "div": 0.07073452000000001,
+                                              "div": 0.07073729000000001,
                                               "clade_membership": {
                                                 "value": "DENV2/AA"
                                               }
@@ -3240,7 +3240,7 @@
                                           {
                                             "name": "DENV2/PERU/FPI01695/2011",
                                             "node_attrs": {
-                                              "div": 0.07701137000000001,
+                                              "div": 0.07701409000000001,
                                               "clade_membership": {
                                                 "value": "DENV2/AA"
                                               }
@@ -3454,7 +3454,7 @@
                                       {
                                         "name": "NODE_0000023",
                                         "node_attrs": {
-                                          "div": 0.061592860000000006,
+                                          "div": 0.06159514,
                                           "clade_membership": {
                                             "value": "DENV2/AA"
                                           }
@@ -3473,7 +3473,7 @@
                                           {
                                             "name": "DENV2/PUERTO_RICO/BIDV1033/1998",
                                             "node_attrs": {
-                                              "div": 0.06816599000000001,
+                                              "div": 0.06816702,
                                               "clade_membership": {
                                                 "value": "DENV2/AA"
                                               }
@@ -3575,7 +3575,7 @@
                                           {
                                             "name": "NODE_0000024",
                                             "node_attrs": {
-                                              "div": 0.06612391000000001,
+                                              "div": 0.06612467,
                                               "clade_membership": {
                                                 "value": "DENV2/AA"
                                               }
@@ -3656,7 +3656,7 @@
                                               {
                                                 "name": "DENV2/NICARAGUA/BIDV2657/2000",
                                                 "node_attrs": {
-                                                  "div": 0.06819938,
+                                                  "div": 0.06820013999999999,
                                                   "clade_membership": {
                                                     "value": "DENV2/AA"
                                                   }
@@ -3702,7 +3702,7 @@
                                               {
                                                 "name": "NODE_0000025",
                                                 "node_attrs": {
-                                                  "div": 0.06630034000000001,
+                                                  "div": 0.0663011,
                                                   "clade_membership": {
                                                     "value": "DENV2/AA"
                                                   }
@@ -3719,7 +3719,7 @@
                                                   {
                                                     "name": "DENV2/NICARAGUA/BIDV1201/2007",
                                                     "node_attrs": {
-                                                      "div": 0.07319664000000001,
+                                                      "div": 0.07319745,
                                                       "clade_membership": {
                                                         "value": "DENV2/AA"
                                                       }
@@ -3824,7 +3824,7 @@
                                                   {
                                                     "name": "NODE_0000026",
                                                     "node_attrs": {
-                                                      "div": 0.06696028000000001,
+                                                      "div": 0.06696103,
                                                       "clade_membership": {
                                                         "value": "DENV2/AA"
                                                       }
@@ -3852,7 +3852,7 @@
                                                       {
                                                         "name": "DENV2/NICARAGUA/BIDV2364/2000",
                                                         "node_attrs": {
-                                                          "div": 0.06893729000000001,
+                                                          "div": 0.06893803000000001,
                                                           "clade_membership": {
                                                             "value": "DENV2/AA"
                                                           }
@@ -3906,7 +3906,7 @@
                                                       {
                                                         "name": "NODE_0000027",
                                                         "node_attrs": {
-                                                          "div": 0.07074605,
+                                                          "div": 0.0707468,
                                                           "clade_membership": {
                                                             "value": "DENV2/AA"
                                                           }
@@ -3970,7 +3970,7 @@
                                                           {
                                                             "name": "DENV2/NICARAGUA/BIDV563/2006",
                                                             "node_attrs": {
-                                                              "div": 0.07234587,
+                                                              "div": 0.07234660999999999,
                                                               "clade_membership": {
                                                                 "value": "DENV2/AA"
                                                               }
@@ -4015,7 +4015,7 @@
                                                           {
                                                             "name": "DENV2/NICARAGUA/BIDV548/2005",
                                                             "node_attrs": {
-                                                              "div": 0.07215333,
+                                                              "div": 0.07215408,
                                                               "clade_membership": {
                                                                 "value": "DENV2/AA"
                                                               }
@@ -4076,7 +4076,7 @@
               {
                 "name": "NODE_0000028",
                 "node_attrs": {
-                  "div": 0.02869128,
+                  "div": 0.0286905,
                   "clade_membership": {
                     "value": "DENV2/C"
                   }
@@ -4116,7 +4116,7 @@
                   {
                     "name": "DENV2/INDIA/NIV427/1964",
                     "node_attrs": {
-                      "div": 0.09512013,
+                      "div": 0.09512235,
                       "clade_membership": {
                         "value": "DENV2/C"
                       }
@@ -4313,7 +4313,7 @@
                   {
                     "name": "NODE_0000029",
                     "node_attrs": {
-                      "div": 0.04237966,
+                      "div": 0.04237964,
                       "clade_membership": {
                         "value": "DENV2/C"
                       }
@@ -4627,7 +4627,7 @@
                           {
                             "name": "DENV2/INDIA/NIV6379/1983",
                             "node_attrs": {
-                              "div": 0.06266196,
+                              "div": 0.06266205,
                               "clade_membership": {
                                 "value": "DENV2/C"
                               }
@@ -4676,7 +4676,7 @@
                           {
                             "name": "NODE_0000031",
                             "node_attrs": {
-                              "div": 0.06148858,
+                              "div": 0.06148735,
                               "clade_membership": {
                                 "value": "DENV2/C"
                               }
@@ -4711,7 +4711,7 @@
                               {
                                 "name": "DENV2/NA/NIID0/2016",
                                 "node_attrs": {
-                                  "div": 0.0798324,
+                                  "div": 0.07983261,
                                   "clade_membership": {
                                     "value": "DENV2/C"
                                   }
@@ -5086,7 +5086,7 @@
                               {
                                 "name": "DENV2/PAKISTAN/8D/2011",
                                 "node_attrs": {
-                                  "div": 0.08290368000000001,
+                                  "div": 0.08290342,
                                   "clade_membership": {
                                     "value": "DENV2/C"
                                   }
@@ -5174,7 +5174,7 @@
                       {
                         "name": "NODE_0000032",
                         "node_attrs": {
-                          "div": 0.04671152,
+                          "div": 0.04671417,
                           "clade_membership": {
                             "value": "DENV2/C"
                           }
@@ -5195,7 +5195,7 @@
                           {
                             "name": "NODE_0000033",
                             "node_attrs": {
-                              "div": 0.05420099,
+                              "div": 0.05420334,
                               "clade_membership": {
                                 "value": "DENV2/C"
                               }
@@ -5219,7 +5219,7 @@
                               {
                                 "name": "DENV2/NA/TORRESSTRAIT1/NA",
                                 "node_attrs": {
-                                  "div": 0.07313563,
+                                  "div": 0.07313872,
                                   "clade_membership": {
                                     "value": "DENV2/C"
                                   }
@@ -5280,7 +5280,7 @@
                               {
                                 "name": "DENV2/SOMALIA/DB126/2011",
                                 "node_attrs": {
-                                  "div": 0.07419603,
+                                  "div": 0.07419878,
                                   "clade_membership": {
                                     "value": "DENV2/C"
                                   }
@@ -5334,7 +5334,7 @@
                           {
                             "name": "NODE_0000034",
                             "node_attrs": {
-                              "div": 0.06209986,
+                              "div": 0.06210109,
                               "clade_membership": {
                                 "value": "DENV2/C"
                               }
@@ -5589,7 +5589,7 @@
                               {
                                 "name": "NODE_0000035",
                                 "node_attrs": {
-                                  "div": 0.06749975,
+                                  "div": 0.06750091,
                                   "clade_membership": {
                                     "value": "DENV2/C"
                                   }
@@ -5618,7 +5618,7 @@
                                   {
                                     "name": "DENV2/INDONESIA/N045/2010",
                                     "node_attrs": {
-                                      "div": 0.08299893,
+                                      "div": 0.08300035,
                                       "clade_membership": {
                                         "value": "DENV2/C"
                                       }
@@ -5661,7 +5661,7 @@
                                   {
                                     "name": "NODE_0000036",
                                     "node_attrs": {
-                                      "div": 0.07306238,
+                                      "div": 0.0730637,
                                       "clade_membership": {
                                         "value": "DENV2/C"
                                       }
@@ -5809,7 +5809,7 @@
                                       {
                                         "name": "DENV2/TAIWAN/71/2002",
                                         "node_attrs": {
-                                          "div": 0.07441321,
+                                          "div": 0.07441454,
                                           "clade_membership": {
                                             "value": "DENV2/C"
                                           }
@@ -5832,7 +5832,7 @@
                                       {
                                         "name": "DENV2/TAIWAN/9501112/2001",
                                         "node_attrs": {
-                                          "div": 0.07497137,
+                                          "div": 0.07497274,
                                           "clade_membership": {
                                             "value": "DENV2/C"
                                           }
@@ -5860,7 +5860,7 @@
                               {
                                 "name": "NODE_0000037",
                                 "node_attrs": {
-                                  "div": 0.06661783,
+                                  "div": 0.06661903999999999,
                                   "clade_membership": {
                                     "value": "DENV2/C"
                                   }
@@ -5946,7 +5946,7 @@
                                   {
                                     "name": "NODE_0000038",
                                     "node_attrs": {
-                                      "div": 0.0697635,
+                                      "div": 0.06976473,
                                       "clade_membership": {
                                         "value": "DENV2/C"
                                       }
@@ -6003,7 +6003,7 @@
                                       {
                                         "name": "DENV2/SINGAPORE/CT24/2012",
                                         "node_attrs": {
-                                          "div": 0.08227938000000001,
+                                          "div": 0.08228149,
                                           "clade_membership": {
                                             "value": "DENV2/C"
                                           }
@@ -6182,7 +6182,7 @@
                                       {
                                         "name": "NODE_0000039",
                                         "node_attrs": {
-                                          "div": 0.07101477,
+                                          "div": 0.07101603,
                                           "clade_membership": {
                                             "value": "DENV2/C"
                                           }
@@ -6209,7 +6209,7 @@
                                           {
                                             "name": "DENV2/MALAYSIA/22563/2000",
                                             "node_attrs": {
-                                              "div": 0.07357582,
+                                              "div": 0.07357718999999999,
                                               "clade_membership": {
                                                 "value": "DENV2/C"
                                               }
@@ -6268,7 +6268,7 @@
                                           {
                                             "name": "NODE_0000040",
                                             "node_attrs": {
-                                              "div": 0.07198244000000001,
+                                              "div": 0.07198368999999999,
                                               "clade_membership": {
                                                 "value": "DENV2/C"
                                               }
@@ -6284,7 +6284,7 @@
                                               {
                                                 "name": "DENV2/SINGAPORE/NA/NA",
                                                 "node_attrs": {
-                                                  "div": 0.07674432,
+                                                  "div": 0.07674561999999999,
                                                   "clade_membership": {
                                                     "value": "DENV2/C"
                                                   }
@@ -6314,7 +6314,7 @@
                                               {
                                                 "name": "DENV2/MALAYSIA/TM26/2014",
                                                 "node_attrs": {
-                                                  "div": 0.08455382,
+                                                  "div": 0.08455507999999999,
                                                   "clade_membership": {
                                                     "value": "DENV2/C"
                                                   }
@@ -6496,7 +6496,7 @@
                                   {
                                     "name": "NODE_0000041",
                                     "node_attrs": {
-                                      "div": 0.07175409,
+                                      "div": 0.07175532999999999,
                                       "clade_membership": {
                                         "value": "DENV2/C"
                                       }
@@ -6577,7 +6577,7 @@
                                       {
                                         "name": "NODE_0000042",
                                         "node_attrs": {
-                                          "div": 0.07238804,
+                                          "div": 0.07238929999999999,
                                           "clade_membership": {
                                             "value": "DENV2/C"
                                           }
@@ -6605,7 +6605,7 @@
                                           {
                                             "name": "DENV2/INDONESIA/MKS0502/2007",
                                             "node_attrs": {
-                                              "div": 0.08028158,
+                                              "div": 0.08028281999999999,
                                               "clade_membership": {
                                                 "value": "DENV2/C"
                                               }
@@ -6725,7 +6725,7 @@
                                           {
                                             "name": "DENV2/INDONESIA/MKS3007/2008",
                                             "node_attrs": {
-                                              "div": 0.08019256,
+                                              "div": 0.08019385999999999,
                                               "clade_membership": {
                                                 "value": "DENV2/C"
                                               }
@@ -6844,7 +6844,7 @@
                                       {
                                         "name": "NODE_0000043",
                                         "node_attrs": {
-                                          "div": 0.07287638,
+                                          "div": 0.07287761,
                                           "clade_membership": {
                                             "value": "DENV2/C"
                                           }
@@ -6880,7 +6880,7 @@
                                           {
                                             "name": "DENV2/INDONESIA/MKS0084/2007",
                                             "node_attrs": {
-                                              "div": 0.07755576,
+                                              "div": 0.077557,
                                               "clade_membership": {
                                                 "value": "DENV2/C"
                                               }
@@ -6960,7 +6960,7 @@
                                           {
                                             "name": "NODE_0000044",
                                             "node_attrs": {
-                                              "div": 0.07750606,
+                                              "div": 0.07750736999999999,
                                               "clade_membership": {
                                                 "value": "DENV2/C"
                                               }
@@ -7132,7 +7132,7 @@
                                               {
                                                 "name": "NODE_0000045",
                                                 "node_attrs": {
-                                                  "div": 0.08160171000000001,
+                                                  "div": 0.081603,
                                                   "clade_membership": {
                                                     "value": "DENV2/C"
                                                   }
@@ -7160,7 +7160,7 @@
                                                   {
                                                     "name": "DENV2/SINGAPORE/46701/2010",
                                                     "node_attrs": {
-                                                      "div": 0.08227857000000001,
+                                                      "div": 0.08227986,
                                                       "clade_membership": {
                                                         "value": "DENV2/C"
                                                       }
@@ -7176,7 +7176,7 @@
                                                   {
                                                     "name": "DENV2/SINGAPORE/001/2010",
                                                     "node_attrs": {
-                                                      "div": 0.08227829,
+                                                      "div": 0.08227959,
                                                       "clade_membership": {
                                                         "value": "DENV2/C"
                                                       }
@@ -7194,7 +7194,7 @@
                                               {
                                                 "name": "NODE_0000046",
                                                 "node_attrs": {
-                                                  "div": 0.07921954,
+                                                  "div": 0.07922085999999999,
                                                   "clade_membership": {
                                                     "value": "DENV2/C"
                                                   }
@@ -7212,7 +7212,7 @@
                                                   {
                                                     "name": "DENV2/SINGAPORE/DED285/2007",
                                                     "node_attrs": {
-                                                      "div": 0.07922054,
+                                                      "div": 0.07922185999999999,
                                                       "clade_membership": {
                                                         "value": "DENV2/C"
                                                       }
@@ -7224,7 +7224,7 @@
                                                   {
                                                     "name": "NODE_0000047",
                                                     "node_attrs": {
-                                                      "div": 0.07978978,
+                                                      "div": 0.07979109999999999,
                                                       "clade_membership": {
                                                         "value": "DENV2/C"
                                                       }
@@ -7240,7 +7240,7 @@
                                                       {
                                                         "name": "DENV2/SINGAPORE/DED973/2007",
                                                         "node_attrs": {
-                                                          "div": 0.07979078,
+                                                          "div": 0.07979209999999999,
                                                           "clade_membership": {
                                                             "value": "DENV2/C"
                                                           }
@@ -7252,7 +7252,7 @@
                                                       {
                                                         "name": "NODE_0000048",
                                                         "node_attrs": {
-                                                          "div": 0.08265545,
+                                                          "div": 0.08265679999999999,
                                                           "clade_membership": {
                                                             "value": "DENV2/C"
                                                           }
@@ -7278,7 +7278,7 @@
                                                           {
                                                             "name": "DENV2/SINGAPORE/08ATW/2010",
                                                             "node_attrs": {
-                                                              "div": 0.08400427,
+                                                              "div": 0.08400562999999998,
                                                               "clade_membership": {
                                                                 "value": "DENV2/C"
                                                               }
@@ -7295,7 +7295,7 @@
                                                           {
                                                             "name": "DENV2/SINGAPORE/CT32/2013",
                                                             "node_attrs": {
-                                                              "div": 0.08610483000000001,
+                                                              "div": 0.08610622999999999,
                                                               "clade_membership": {
                                                                 "value": "DENV2/C"
                                                               }
