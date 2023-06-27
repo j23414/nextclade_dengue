@@ -88,7 +88,9 @@ export INPUT_FASTA=1687891060186.sequences.fasta
 
   ![](imgs/05_nextclade_tsv.png)
 
-**N** Missing Data
+### Check QC Score calculations
+
+#### Missing Data (N)
 
 $$
 \begin{align*}
@@ -96,6 +98,25 @@ N_{count} &= \{ 0 .. \text{length of sequence}\} \\
 QC_{N} &= max(0, ((N_{count}-300) * 100/2700))
 \end{align*}
 $$
+
+The source code calculating missing data is in [qc_rule_missing_data.rs](https://github.com/nextstrain/nextclade/blob/master/packages_rs/nextclade/src/qc/qc_rule_missing_data.rs#L26-L29) 
+
+```
+let score = clamp_min(
+  ((total_missing as f64 - config.score_bias) * 100.0) / config.missing_data_threshold,
+  0.0,
+);
+```
+
+where `score_bias=300` and `missing_data_threshold=2700` in the [qc.json file](https://github.com/nextstrain/nextclade_data/blob/master/data/datasets/sars-cov-2/references/MN908947/versions/2021-06-25T00%3A00%3A00Z/files/qc.json#L8-L12).
+
+```
+"missingData": {
+  "enabled": true,
+  "missingDataThreshold": 2700,
+  "scoreBias": 300
+},
+```
 
 Example:
 
@@ -110,7 +131,9 @@ $N_{count}=13$
 
 $QC_{N}=max(0, 13-300) * 100/2700 = 0 = \text{good}$
 
-**M** Mixed sites
+----
+
+#### Mixed sites (M)
 
 $$
 \begin{align*}
@@ -119,15 +142,61 @@ QC_{M}&= M_{count} * 100/10
 \end{align*}
 $$
 
+
+
+-----
+
 **P** Private mutations
 
 $$
 \begin{align*}
-P_{count} &= P_{reversions} + P_{labeled mutation} + P_{unlabeled mutations} \\
-QC_{P} &= max(0, (6 * P_{reversions} + 4 * P_{labeled mutation} + 1 * P_{unlabeled mutation} - 8)) * 100/24
+P_{count} &= P_{reversions} + P_{labeled} + P_{unlabeled} \\
+QC_{P} &= max(0, (6 * P_{reversions} + 4 * P_{labeled} + 1 * P_{unlabeled} - 8)) * 100/24
 \end{align*}
 $$
 
+example:
+
+```
+>reference
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+>clade_A
+AAAAAAAGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+>clade_T
+TTTTTTTGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+>query_sample
+TAGGTTTGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGCCG
+```
+
+$$
+\begin{align*}
+P_{reversions} &= 2 \text{ G reversions to reference} \\
+P_{labeled} &= 4 \text{ T labeled mutations to clade T} \\
+P_{unlabeled} & = 1 \text{ A unlabeled mutations} + 2 \text{ C unlabeled mutations}\\
+P_{count} &= 2 + 4 + 3  \\
+QC_{P} &= max(0, (6 * 2 + 4 * 4 + 1 * 3 - 8)) * 100/24 = 95.83 = \text{mediocre}
+\end{align*}
+$$
+
+**C** Mutation clusters
+
+**S** Stop codons
+
+$$
+\begin{align*}
+QC_{S} = (S_{count} - \text{known stop codons}) * 75
+\end{align*}
+$$
+
+**F** Frame shifts
+
+$$
+\begin{align*}
+QC_{F} = (F_{count} - \text{ignored known frame shifts}) * 75
+\end{align*}
+$$
+
+An example known frame-shift are the alpha deletions in H3N2. 
 
 6. Interpret SNP plot
 
