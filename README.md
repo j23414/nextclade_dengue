@@ -1,5 +1,8 @@
 # nextclade_dengue
+
 Attempt to create a nextclade_dengue dataset
+
+![](demo/imgs/00_pipeline.png)
 
 ## Potential References
 
