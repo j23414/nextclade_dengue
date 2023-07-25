@@ -2,8 +2,8 @@
   "schemaVersion": "1.2.0",
   "privateMutations": {
     "enabled": true,
-    "typical": 10,
-    "cutoff": 25,
+    "typical": 1000,
+    "cutoff": 2500,
     "weightLabeledSubstitutions": 2,
     "weightReversionSubstitutions": 1,
     "weightUnlabeledSubstitutions": 1
@@ -24,7 +24,7 @@
     "mixedSitesThreshold": 8
   },
   "frameShifts": {
-    "enabled": true
+    "enabled": false
   },
   "stopCodons": {
     "enabled": true,
