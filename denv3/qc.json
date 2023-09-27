@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.2.0",
   "privateMutations": {
-    "enabled": true,
+    "enabled": false,
     "typical": 1000,
     "cutoff": 2500,
     "weightLabeledSubstitutions": 2,
@@ -20,14 +20,14 @@
     "scoreWeight": 50
   },
   "mixedSites": {
-    "enabled": true,
+    "enabled": false,
     "mixedSitesThreshold": 8
   },
   "frameShifts": {
     "enabled": false
   },
   "stopCodons": {
-    "enabled": true,
+    "enabled": false,
     "ignoredStopCodons": []
   }
 }
