@@ -83,7 +83,7 @@ export INPUT_FASTA=1687891060186.sequences.fasta
 
 5. Interpret QC values
 
-  * https://docs.nextstrain.org/projects/nextclade/en/stable/user/algorithm/07-quality-control.html
+  * https://docs.nextstrain.org/projects/nextclade/en/stable/user/algorithm/06-quality-control.html
   * Interpreting TSV results - https://docs.nextstrain.org/projects/nextclade/en/stable/user/output-files.html#tabular-csv-tsv-results
 
   ![](imgs/05_nextclade_tsv.png)
