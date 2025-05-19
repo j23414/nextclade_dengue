@@ -81,6 +81,9 @@ export INPUT_FASTA=1687891060186.sequences.fasta
   
   ![](imgs/04_nextclade_web.png)
 
+
+## Nextclade QC Values
+
 5. Interpret QC values
 
   * https://docs.nextstrain.org/projects/nextclade/en/stable/user/algorithm/06-quality-control.html
